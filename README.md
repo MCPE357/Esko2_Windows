@@ -1,5 +1,7 @@
 # Esko2 Remake this time using C# as well
 
+Doesn't contain api changes
+
 MC ver: 1.19.20
 
 how to use:
