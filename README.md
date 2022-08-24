@@ -24,6 +24,8 @@ fixed not supporting some of the regular pm3 plugins register
 
 overheats less than before
 
+added enable/disable portal options
+
 
 known issues:
 
