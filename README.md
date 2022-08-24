@@ -32,3 +32,5 @@ known issues:
 Its supported only on Windows
 
 when u first start the program spam Y in the console cuz else it freezes
+
+You should always do /stop when you close the window
